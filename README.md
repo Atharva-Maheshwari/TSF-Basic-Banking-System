@@ -1,4 +1,4 @@
-# TSF-Basic-Banking-System
+# TSF-Basic-Banking-System by Atharva Maheshwari
 
 ## Introduction
 >  ### The Sparks Foundation Internship Project - Basic Banking System
